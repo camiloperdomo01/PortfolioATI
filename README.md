@@ -1,7 +1,14 @@
-🔗 Repository: [One-Page-Site](https://github.com/camilo5627/One-Page-Site)
+Proyectos hechos en la carrera de ATI en ORT.
 
-🔗 Repository: [Dog Walkers App](https://github.com/camilo5627/dog-walkers-app)
 
-🔗 Repository: [Logistics Company DB Project](https://github.com/camilo5627/Logistics-Company-db-project)
+Primer Semestre:
 
-🔗 Repository: [Expense Management App](https://github.com/camilo5627/expense-management-app)
+🔗 Desarrollo Web: [One-Page-Site](https://github.com/camilo5627/One-Page-Site)
+
+🔗 Programacion 1: [Dog Walkers App](https://github.com/camilo5627/dog-walkers-app)
+
+Segundo Semestre:
+
+🔗 Base de Datos 1: [Logistics Company DB Project](https://github.com/camilo5627/Logistics-Company-db-project)
+
+🔗 Programacion 2: [Expense Management App](https://github.com/camilo5627/expense-management-app)
