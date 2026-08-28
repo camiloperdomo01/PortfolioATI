@@ -12,3 +12,7 @@ Segundo Semestre:
 🔗 Base de Datos 1: [Logistics Company DB Project](https://github.com/camilo5627/Logistics-Company-db-project)
 
 🔗 Programacion 2: [Expense Management App](https://github.com/camilo5627/expense-management-app)
+
+Tercer Semestre: 
+
+🔗 Algoritmos y Estructuras de Datos: [Prácticos Java](https://github.com/camiloperdomo01/Ejercicios-AlgoritmosYEstructurasDeDatos)
