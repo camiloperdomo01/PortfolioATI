@@ -16,3 +16,5 @@ Segundo Semestre:
 Tercer Semestre: 
 
 🔗 Algoritmos y Estructuras de Datos: [Prácticos Java](https://github.com/camiloperdomo01/Ejercicios-AlgoritmosYEstructurasDeDatos)
+
+🔗 Base de Datos 2: [Consultas SQL Básicas](https://github.com/camiloperdomo01/BD2-EjerciciosSQL-ConsultasBasicas)
