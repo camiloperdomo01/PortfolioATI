@@ -13,6 +13,10 @@ Segundo Semestre:
 
 🔗 Programacion 2: [Expense Management App](https://github.com/camilo5627/expense-management-app)
 
+Taller Desarrollo Mobile y GenAI:
+
+🔗 Desarrollo Mobile y GenAI: [Obligatorio-WorldCupFan](https://github.com/camiloperdomo01/WorldCupFan)
+
 Tercer Semestre: 
 
 🔗 Algoritmos y Estructuras de Datos: [Prácticos Java](https://github.com/camiloperdomo01/Ejercicios-AlgoritmosYEstructurasDeDatos)
